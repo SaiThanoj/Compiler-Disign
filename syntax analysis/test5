@@ -1,0 +1,12 @@
+var n = 10;
+var t = 0;
+
+for (i = 0; i < n; i = i + 1) {
+    flash ('inside for loop');
+    flash (i);
+
+    if (i < 6 ) {
+        flash ('inside if');
+        t = t + 1;
+    }
+}

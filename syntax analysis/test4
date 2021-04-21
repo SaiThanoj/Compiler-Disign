@@ -1,0 +1,18 @@
+var max ( var a , var b ) {
+
+        if ( a > b ){
+        
+                flash(a);
+                
+        }
+        
+        elif (a < b) {        
+                flash(b);
+                
+        }
+
+        else {
+                flash('Equal');
+        }
+        
+}

@@ -1,0 +1,9 @@
+void fun(){
+while ( k  ) {
+
+        var answer = answer * k;
+        k = k + 1;
+        var arr[5];
+}
+}
+flash ('answer');

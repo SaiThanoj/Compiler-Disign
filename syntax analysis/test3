@@ -1,0 +1,23 @@
+var size;
+
+var arr1[size];
+var arr2[size];
+
+flash ('enter value for arr1');
+flash (size);
+
+var k = 0;
+
+while ( k < n ){
+
+        arr1[k];       
+        
+}
+
+k = 0;
+
+while ( k < n ){
+
+        arr2[k] = arr1[k];       
+        
+}
